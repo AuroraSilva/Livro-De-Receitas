@@ -1,0 +1,29 @@
+{
+  "name": "livro-de-receitas",
+  "version": "1.0.0",
+  "description": "Esse projeto visa criar um site completo (Back + Front) para treinar versionamento de código, trabalho em equipe e realmente colocar em prática como receber requisições e enviar respostas (Back-End) e como enviar requisições e receber respostas (Front-End).",
+  "main": "reformatdb.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AuroraSilva/Livro-De-Receitas.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AuroraSilva/Livro-De-Receitas/issues"
+  },
+  "homepage": "https://github.com/AuroraSilva/Livro-De-Receitas#readme",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "mongoose": "^7.0.3",
+    "save": "^2.9.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  }
+}
