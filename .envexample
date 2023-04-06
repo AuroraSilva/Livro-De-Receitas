@@ -1,4 +1,0 @@
-MONGODB_SRV=mongodb+srv://
-LOGIN=[username]:
-PASSWORD=[password]
-CLUSTER=@[cluster name].[cluster id].mongodb.net/[file]
